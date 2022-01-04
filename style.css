@@ -90,6 +90,14 @@ h1{
 
 /* Experiences section */
 
+.experiance-part-title{
+ text-align: center;
+ margin-bottom:100px;
+}
+
+
+
+
 .experiance-part{
  background-image: url(./images/exp-bg.png);
  background-repeat: no-repeat;
